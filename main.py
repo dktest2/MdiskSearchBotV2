@@ -17,7 +17,7 @@ client = TelegramClient(StringSession( Config.USER_SESSION_STRING), Config.API_I
 
 
 async def get_user_join(id):
-    if Config.FORCE_SUB == "False":
+    if Config.FORCE_SUB == "True":
         return True
 
     ok = True
