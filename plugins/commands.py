@@ -38,7 +38,7 @@ async def mdisk_handler(_, event: Message):
             ],
 
              [InlineKeyboardButton("TeraBox", callback_data="Terabox_msg"),
-             InlineKeyboardButton('Watch Video', url='https://t.me/CyniteBackup/17')
+             InlineKeyboardButton('🌹 𝙹𝙾𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙻 🌹', url='https://t.me/movie_a1')
              ]
         ])
     )
@@ -52,7 +52,7 @@ async def terabox_handler(_, event: Message):
             ],
 
              [InlineKeyboardButton("Mdisk", callback_data="Mdisk_msg"),
-             InlineKeyboardButton('Watch Photo', url='https://telegra.ph/file/abdc2f0e2d59f6bb67fa5.jpg')
+             InlineKeyboardButton('🌹 𝙹𝙾𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙻 🌹', url='https://t.me/movie_a1')
              ]
         ])
     )
